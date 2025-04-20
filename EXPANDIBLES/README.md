@@ -4,7 +4,7 @@ Proyecto simple de tarjetas que se expanden al hacer hover, creado con HTML y CS
 
 ## 🖼️ Cómo se ve
 
-(imagenes/captura-tarjetas.jpg)
+![Cómo se ve](./imagenes/captura-tarjetas.jpg)
 
 ## 🚀 Cómo probarlo
 
